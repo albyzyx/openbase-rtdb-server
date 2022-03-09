@@ -1,0 +1,10 @@
+{
+  "name": "openbase-rtdb-server",
+  "version": "1.0.0",
+  "description": "An opensource implementation of a NoSQL realtime database with interface similar to firebase RTDB.",
+  "main": "index.js",
+  "repository": "https://github.com/albyzyx/openbase-rtdb-server.git",
+  "author": "albyzyx",
+  "license": "MIT",
+  "private": false
+}
